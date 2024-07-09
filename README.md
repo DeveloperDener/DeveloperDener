@@ -1,5 +1,5 @@
 ### Hello World! Eu me chamo Dener 🙋‍♂️
-### Sou um nerd apaixonado por jogos e tecnologia. Nasci no meio digital e foi dentro da programação que achei minha vocação e desde então tenho me esforçado para aprender e crescer cada vez mais todos os dias.
+### Sou um "nerd" apaixonado por jogos e tecnologia. Nasci no meio digital e foi dentro da programação que achei minha vocação e desde então tenho me esforçado para aprender e crescer cada vez mais todos os dias.
 ### Valorizo a colaboração e foi participando de comunidades de desenvolvedores que me proporcionou troca de conhecimento para aprender com outros entusiastas. Acredito que o trabalho em equipe é fundamental para o sucesso no desenvolvimento de softwares. Bora programar ? 🧑‍💻
 ### Tecnologias utilizadas no meu dia-dia 👨‍💻
 
